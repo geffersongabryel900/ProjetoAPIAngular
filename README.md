@@ -6,4 +6,4 @@
 - Alisson Souza - E.C. - 01527376
 - Pedro Ivo - E.C. - 01529228
 - Gisele Ferreira - E.C. - 01523879
-- Yohana gabriely - 01525287
+- Yohana gabriely - E.C. - 01525287
