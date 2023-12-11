@@ -1,0 +1,30 @@
+.button-style {
+  min-width: 220px;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(161, 161, 161);
+  text-shadow: 2px 2px black;
+}
+
+.big-button {
+  width: 35vw;
+  height: 40vh;
+  font-size: 50px;
+  margin-top: 150px;
+  font-weight: bold;
+  color: rgb(161, 161, 161);
+  text-shadow: 2px 2px black;
+
+}
+
+.comicsImg {
+  background-image: url('../../assets/comics.jpg');
+  background-size: contain;
+}
+
+.charactersImg {
+  background-image: url('../../assets/characters.jpeg');
+  background-size: contain;
+}
